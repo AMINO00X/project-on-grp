@@ -1,0 +1,70 @@
+.app-market{
+    width: 50px;
+}
+.parent{
+    border: 2px solid #c6d166;
+    border-radius: 15px;
+    width: 300px;
+    height: 250px;
+}
+section{
+    display: flex;
+    justify-content: space-around;
+}
+h3{
+    margin-left: 15px;
+}
+p{
+    margin-left: 15px;
+}
+.button1{
+    margin-left: 10px;
+    margin-top: 50px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+}
+.button2{
+    margin-left: 10px;
+    margin-top: 22px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+}
+.button3{
+    margin-left: 10px;
+    margin-top: 40px;
+    background-color: rgb(255, 255, 255);
+    border: none;
+}
+.uncle{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    border: 2px solid black;
+    border-radius: 30px;
+    margin-top: 50px;
+    margin-left: 70px;
+    margin-right: 70px; 
+}
+.button4{
+font-size: 20px;
+border-radius: 15px;
+background-color: rgb(243, 239, 26);
+transition: 0.3s ease;
+} 
+.button4:hover{
+    transform: scale(1.3) translateY(-5px);
+    box-shadow: 0 0 25px rgb(243, 239, 26);
+}
+ h1{
+    margin-left: 20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+h6{
+    color: grey;
+    margin-left: 40px;
+} 
+.end{
+    margin-right: 90px;
+    margin-top: 15px;
+}
