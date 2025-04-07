@@ -7,7 +7,7 @@
     width: 300px;
     height: 250px;
 }
-section{
+.parte1{
     display: flex;
     justify-content: space-around;
 }
@@ -68,3 +68,92 @@ h6{
     margin-right: 90px;
     margin-top: 15px;
 }
+.lightspeed{
+    width: 30px;
+    height: 30px;
+    margin-top: 40px;
+}
+.parte2{
+    display: flex;
+    justify-content: space-around;
+    
+}
+.parte3{
+    display: flex;
+    justify-content: space-evenly;
+}
+.foter{
+    display: flex;
+    flex-direction: column;
+}
+a{
+    text-decoration: none;
+    color: azure;
+}
+.latestblog{
+    margin-left: 10px;
+}
+.superhero{
+    color: antiquewhite;
+    background-color: black;
+    margin-top: 50px;
+}
+.icon{
+    padding-left: 1000px;
+    margin-top: 40px;
+    display: flex;
+}
+.icon a{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    width: 2rem;
+    height: 2rem;
+    background-color: transparent;
+    font-size: 1.3rem;
+    border-radius: 50%;
+    margin: 3rem 1.5rem 3rem;
+    transition: 0.3s ease;
+    color: #fdfcfc;
+}
+.icon a:hover{
+    transform: scale(1.3)translateY(-5px);
+    box-shadow: 0 0 25px #e2d6d6;
+}
+.search{
+    margin-left: 180px;
+   color: #e2d6d6;
+   background-color: #fdfcfc;
+}
+.responsive{
+    text-align: end;
+}
+.search{
+    padding: 8px;
+    border: 1px solid black;
+    border-radius: 4px;
+    width: 150px;
+}
+.app{
+    margin-bottom: 10px;
+}
+.world{
+    padding-left: 50px;
+    width: 35px;
+    height: 35px;
+    margin-bottom: 15px;
+}
+.parte4 {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 60px;
+    
+}
+.last a{
+    margin-right: 15px;
+}
+.superman{
+    border-top: 2px solid rgb(138, 134, 134);
+}
+
+
