@@ -69,9 +69,10 @@ h6{
     margin-top: 15px;
 }
 .lightspeed{
-    width: 30px;
-    height: 30px;
-    margin-top: 40px;
+    width: 40px;
+    height: 40px;
+    margin-top: 60px;
+    color: #e2d6d6;
 }
 .parte2{
     display: flex;
@@ -81,7 +82,13 @@ h6{
 .parte3{
     display: flex;
     justify-content: space-evenly;
+    margin-left: 100px;
 }
+.latestblog{
+    display: flex;
+    flex-direction: column;
+}
+
 .foter{
     display: flex;
     flex-direction: column;
@@ -90,7 +97,7 @@ a{
     text-decoration: none;
     color: azure;
 }
-.latestblog{
+.latestblogg{
     margin-left: 10px;
 }
 .superhero{
@@ -155,5 +162,6 @@ a{
 .superman{
     border-top: 2px solid rgb(138, 134, 134);
 }
+
 
 
